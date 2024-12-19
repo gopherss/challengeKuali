@@ -32,4 +32,3 @@ const calcularSubConjunto = (subconjunto: number[], valorEntero: number): number
 const resultado = calcularSubConjunto(subconjunto, valorEntero);
 
 c(resultado);
-
